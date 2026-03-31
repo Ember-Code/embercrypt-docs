@@ -1,0 +1,8 @@
+[book]
+title = "embercrypt"
+authors = ["embercode"]
+language = "en"
+src = "src"
+
+[output.html]
+no-section-label = true   # hides chapter numbers
