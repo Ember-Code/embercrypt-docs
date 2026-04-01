@@ -1,4 +1,4 @@
-# encvfs
+# embercrypt - encvfs
 
 A transparent encryption layer for SQLite implemented as a custom VFS (Virtual File System).
 
